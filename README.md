@@ -17,9 +17,8 @@ The system boasts several exciting features, including:
 * Admin web panel for managing system settings and viewing reports.
 
 # Project Details 👨‍💻
-The Smart Gate Monitoring System is a project that I have developed with a passion for innovation and excellence. The system uses two custom YOLO object detection models, one for verifying Malaysian license cards to extract thier information, and the other one for detecting the university parking sticker.
-Witness the exceptional capabilities of our models in action through the captivating GIF below:
-<img width="227" alt="image" src="https://github.com/Mohamed1-2/SGMS/assets/34875234/8e1aacda-4d0d-434b-a403-a754f9767ea4">
+The Smart Gate Monitoring System is a project that I have developed with a passion for innovation and excellence. The system uses two custom object detection models(YOLO and SSD MobileNet), one for verifying Malaysian license cards to extract thier information, and the other one for detecting the university parking sticker.
+Witness the exceptional capabilities of our models in action through the captivating GIFs below:
 
 ![gif](https://github.com/Mohamed1-2/SGMS/blob/main/My%20Movie%204.gif) ![vid](https://github.com/Mohamed1-2/SGMS/assets/34875234/f8a146f6-720f-478c-9e6e-fba250c52cff)
 
