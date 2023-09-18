@@ -22,6 +22,12 @@ Witness the exceptional capabilities of our models in action through the captiva
 
 ![gif](https://github.com/Mohamed1-2/SGMS/blob/main/My%20Movie%204.gif) ![vid](https://github.com/Mohamed1-2/SGMS/assets/34875234/f8a146f6-720f-478c-9e6e-fba250c52cff)
 
+Real time detection :
+
+![ezgif com-video-to-gif](https://github.com/Mohamed1-2/SGMS/assets/34875234/84b6173a-a30b-4ce8-b20f-37ad2bcc3926)
+
+
+
 To further enhance user experience and facilitate management, I've meticulously designed a user-friendly mobile app capable of seamless license card scanning. Additionally, an administrative web panel, thoughtfully crafted using the versatile Flutter framework, empowers users to configure the system settings and access insightful reports.
 
 Explore the visual representation of our mobile and web apps below:
