@@ -38,3 +38,15 @@ Explore the visual representation of our mobile and web apps below:
 | 📱 Mobile App |
 | | :---: 
  <img width="150" alt="Screenshot 2023-07-13 at 11 10 11 AM" src="https://github.com/Mohamed1-2/SGMS/assets/34875234/f636173c-d962-40c7-864b-e67db497d470"> <img width="150" alt="Screenshot 2023-07-14 at 11 10 11 AM" src="https://github.com/Mohamed1-2/SGMS/assets/34875234/7319f5de-7262-4f07-9a1e-1f7a0de1eb94"> <img width="150" alt="Screenshot 2023-07-14 at 11 10 11 AM" src="https://github.com/Mohamed1-2/SGMS/assets/34875234/1165552c-aa87-4e8a-a0b7-abaa2d7838f3"> <img width="150" alt="Screenshot 2023-07-17 at 11 10 11 AM" src="https://github.com/Mohamed1-2/SGMS/assets/34875234/d242d219-f28d-4491-94ed-2538a143ef2f"> <img width="150" alt="Screenshot 2023-07-19 at 11 10 11 AM" src="https://github.com/Mohamed1-2/SGMS/assets/34875234/0206f6a6-7083-4376-9403-ae48b1335608">|
+
+# Awards🏆
+ د
+
+* Gold Medal, The 8th International Invention Innovation Competition in Canada, iCAN 2023.
+* Won international special award from world invention intellectual property associations (WIIPA) at 8th International Invention Innovation Competition in Canada, iCAN 2023.- ranked 3rd
+* Selected as one of the top 20 best inventions at 8th International Invention Innovation Competition in Canada, iCAN 2023. - ranked 17th.
+* Gold Medal, The 8th INNOVATION Research, Invention and Application Exhibition, Universiti Utara Malaysia.
+* Special Award by Centre of Excellence Advanced Computing-ADVCOMP, The 8th INNOVATION Research, Invention and Application Exhibition, Universiti Utara Malaysia.
+![IMG_3960_3](https://github.com/Mohamed1-2/SGMS/assets/34875234/fe327881-f54c-4d03-bc51-d813388f8c8a)![WIIPA Special Award Certificate](https://github.com/Mohamed1-2/SGMS/assets/34875234/f69ca550-4a14-41b0-8cd1-ec4a088ab9d9)![Gold Medal Certificate](https://github.com/Mohamed1-2/SGMS/assets/34875234/71145959-30a6-4adf-91aa-d067a08a7b6a)![Top 20 Best Invention Award Certificate](https://github.com/Mohamed1-2/SGMS/assets/34875234/258260ea-b03f-4688-bee7-c452eb00ba0a)
+
+
