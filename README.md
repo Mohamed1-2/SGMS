@@ -5,7 +5,7 @@
 
 
 # Smart Gate Monitoring System(SGMS) - Final year Project 📱🎓
-Welcome to the Smart Gate Monitoring System , a state-of-the-art system developed as a final year project. The goal of the project is to design and implement a system to improve security and efficiency at the university gate. The system is developed as a Flutter app and web panel for the admin and uses two custom models to verify Malaysian license cars and detect the university parking sticker.
+The Smart Gate Monitoring System is at the forefront of campus security, incorporating advanced technologies to ensure a safe and efficient environment. Leveraging the capabilities of Flutter for both mobile and web applications, and backed by Python and Flask for a robust backend, the system employs not one but two custom object detection models. These models, finely tuned to the specific requirements of the project, play a pivotal role in real-time surveillance and identification of vehicles, parking stickers, and license cards. This dual-object detection approach enhances the precision and reliability of the Smart Gate Monitoring System, making it a sophisticated and innovative solution for campus security needs.
 
 # Features 🌟
 The system boasts several exciting features, including:
