@@ -7,6 +7,19 @@
 # Smart Gate Monitoring System(SGMS) - Final year Project 📱🎓
 The Smart Gate Monitoring System is at the forefront of campus security, incorporating advanced technologies to ensure a safe and efficient environment. Leveraging the capabilities of Flutter for both mobile and web applications, and backed by Python and Flask for a robust backend, the system employs not one but two custom object detection models. These models, finely tuned to the specific requirements of the project, play a pivotal role in real-time surveillance and identification of vehicles, parking stickers, and license cards. This dual-object detection approach enhances the precision and reliability of the Smart Gate Monitoring System, making it a sophisticated and innovative solution for campus security needs.
 
+# Technologies Used
+**Flask :** Serves as the backend framework, handling HTTP requests and managing interactions with custom YOLO models for object detection and processing.
+
+**Custom YOLO Models:** Integrated within the Flask backend to enable real-time object detection for license plates, parking stickers, and other key identifiers. These models have been finely tuned to meet the project's specific security requirements.
+
+**Google Cloud Storage:** Used for storing, retrieving, and managing large datasets and model files, ensuring scalability and secure storage for the application’s data.
+
+**Flutter with Dart:** Used for building a responsive and intuitive front-end experience across both iOS and Android devices. Flutter allows the app to deliver a consistent user experience on mobile and web platforms.
+
+![flutter](https://img.icons8.com/?size=96&id=pCvIfmctRaY8&format=png)
+![googlecloud](https://img.icons8.com/?size=96&id=WHRLQdbEXQ16&format=png)
+![flask](https://img.icons8.com/?size=128&id=ewGOClUtmFX4&format=png)
+
 # Features 🌟
 The system boasts several exciting features, including:
 
